@@ -1,0 +1,15 @@
+Project Overview
+
+This project analyzes sales data from Bright Coffee Shop using SQL, analytics, and data visualization to uncover insights that can help the business improve its performance. The goal is to understand which products perform best, when the store experiences the highest activity, and how sales trends change over time.
+
+Objectives
+
+The analysis focuses on answering the following key business questions:
+
+Which products generate the most revenue?
+
+What time of day does the store perform best?
+
+How do sales trends vary across products and time intervals?
+
+What recommendations can be implemented to improve sales performance?
